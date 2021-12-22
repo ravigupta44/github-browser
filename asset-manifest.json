@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github-browser/static/css/main.64c546b4.css",
+    "main.js": "/github-browser/static/js/main.1a7d7571.js",
+    "static/js/787.a21cb570.chunk.js": "/github-browser/static/js/787.a21cb570.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/github-browser/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/github-browser/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/github-browser/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/github-browser/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/github-browser/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/github-browser/index.html",
+    "main.64c546b4.css.map": "/github-browser/static/css/main.64c546b4.css.map",
+    "main.1a7d7571.js.map": "/github-browser/static/js/main.1a7d7571.js.map",
+    "787.a21cb570.chunk.js.map": "/github-browser/static/js/787.a21cb570.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c546b4.css",
+    "static/js/main.1a7d7571.js"
+  ]
+}
