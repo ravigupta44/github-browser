@@ -1,0 +1,42 @@
+.avatar{
+    padding: 2%;
+}
+/* .pright{
+    //margin-left: px;
+} */
+.user__info{
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.user__infoDetails > h5{
+    text-align: center;
+}
+.user__info > img{
+    border-radius: 50%;
+    object-fit: contain;
+}
+
+.user__infoDetails{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.user__infos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.user__infoDetail{
+    font-size: 14px;
+    margin-right: 15px;
+    color: gray;
+    display: flex;
+    align-items: center;
+}

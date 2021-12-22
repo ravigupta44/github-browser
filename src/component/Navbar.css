@@ -1,0 +1,13 @@
+.avatar{
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 3%;
+   
+}
+
+.searchuser{
+    display: flex;
+    margin-left: auto;
+    margin-right: 20px;
+    align-items: center;
+}
